@@ -9,3 +9,5 @@ scipy
 scikit-learn
 seaborn
 tensorflow
+keras_tuner
+
